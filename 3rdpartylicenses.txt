@@ -227,6 +227,9 @@ ISC
 ngx-cookie-service
 MIT
 
+ngx-device-detector
+MIT
+
 ngx-toastr
 MIT
 The MIT License (MIT)
