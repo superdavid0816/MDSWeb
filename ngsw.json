@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723381075849,
+  "timestamp": 1723384518314,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -63,7 +63,7 @@
     "https://lianloveu.com/assets/images/banner.jpg": "a8e767b84f45be1170eb82eda9415c406ab53d0e",
     "https://lianloveu.com/assets/images/logo.png": "27c44ff8da149b5969ebbc8f363d365e33fee323",
     "https://lianloveu.com/assets/images/qrcodeattendance.png": "4f2aa1e8c6ddaec1f570f457d1f0cac99c71355a",
-    "https://lianloveu.com/favicon.ico": "cfc8f8e24abab06dc2fbca0e291f64ed8dd30ed7",
+    "https://lianloveu.com/favicon.ico": "33728f4973bc6b3b8e2ebec29823ebc2b797ccca",
     "https://lianloveu.com/index.html": "e39adc2c171c1eaf070b89493f474bf752de8e33",
     "https://lianloveu.com/main.c3e5a72838f9a752.js": "e9ffb60cafb418e24c31b527e4c1aa04c9f84bdb",
     "https://lianloveu.com/manifest.webmanifest": "580475410d34158e4234132c81e9c7fe41515261",
