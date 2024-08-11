@@ -1,0 +1,93 @@
+{
+  "configVersion": 1,
+  "timestamp": 1723379923206,
+  "index": "https://lianloveu.com/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lianloveu.com/favicon.ico",
+        "https://lianloveu.com/index.html",
+        "https://lianloveu.com/main.5cadcabf0e034c1d.js",
+        "https://lianloveu.com/manifest.webmanifest",
+        "https://lianloveu.com/polyfills.166cfcf4f61367cb.js",
+        "https://lianloveu.com/runtime.c1ac8e6dabcccd35.js",
+        "https://lianloveu.com/styles.00bd7f7f4fec2999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lianloveu.com/assets/icons/icon-128x128.png",
+        "https://lianloveu.com/assets/icons/icon-144x144.png",
+        "https://lianloveu.com/assets/icons/icon-152x152.png",
+        "https://lianloveu.com/assets/icons/icon-192x192.png",
+        "https://lianloveu.com/assets/icons/icon-384x384.png",
+        "https://lianloveu.com/assets/icons/icon-512x512.png",
+        "https://lianloveu.com/assets/icons/icon-72x72.png",
+        "https://lianloveu.com/assets/icons/icon-96x96.png",
+        "https://lianloveu.com/assets/images/AddToCart.png",
+        "https://lianloveu.com/assets/images/Not_OK.png",
+        "https://lianloveu.com/assets/images/OK.png",
+        "https://lianloveu.com/assets/images/banner.jpg",
+        "https://lianloveu.com/assets/images/logo.png",
+        "https://lianloveu.com/assets/images/qrcodeattendance.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://lianloveu.com/assets/icons/icon-128x128.png": "b27d45fd8bb01e03d802ef598853bd0136dfc396",
+    "https://lianloveu.com/assets/icons/icon-144x144.png": "e30ef605cf812a4d2e72a712fb6e890b01788dc5",
+    "https://lianloveu.com/assets/icons/icon-152x152.png": "9c2e60b31b7e859b7b7c56c873026fc3da91c850",
+    "https://lianloveu.com/assets/icons/icon-192x192.png": "27b02212c844876603faf6890412dd2d05035c26",
+    "https://lianloveu.com/assets/icons/icon-384x384.png": "f15517eb6a9c12a6f886553b29af11015e6906bb",
+    "https://lianloveu.com/assets/icons/icon-512x512.png": "a7cc9f77b4e4059a77c55211d340f9c61d73435c",
+    "https://lianloveu.com/assets/icons/icon-72x72.png": "072029b23b68854a11586acbd50f0530efe3ccf6",
+    "https://lianloveu.com/assets/icons/icon-96x96.png": "d866a99ba9c3487877e82dfa24178593979d8bfc",
+    "https://lianloveu.com/assets/images/AddToCart.png": "4f887a6b4dd72ad030e09fee5eae1e924ff5a462",
+    "https://lianloveu.com/assets/images/Not_OK.png": "a7f5aa7959ebb5bb811ee5a652c5416ec0a95538",
+    "https://lianloveu.com/assets/images/OK.png": "60069fb79ddd6e56f2e2d8dfa0ddf5294cb760e8",
+    "https://lianloveu.com/assets/images/banner.jpg": "a8e767b84f45be1170eb82eda9415c406ab53d0e",
+    "https://lianloveu.com/assets/images/logo.png": "27c44ff8da149b5969ebbc8f363d365e33fee323",
+    "https://lianloveu.com/assets/images/qrcodeattendance.png": "4f2aa1e8c6ddaec1f570f457d1f0cac99c71355a",
+    "https://lianloveu.com/favicon.ico": "cfc8f8e24abab06dc2fbca0e291f64ed8dd30ed7",
+    "https://lianloveu.com/index.html": "0bba61565b9539743e53b6aa7513436ea90391a9",
+    "https://lianloveu.com/main.5cadcabf0e034c1d.js": "4c3ae170c2f57f0a3f9581d5e14f4667668797c8",
+    "https://lianloveu.com/manifest.webmanifest": "357e50448617091e2211744a7cdfeb7efa8f86ac",
+    "https://lianloveu.com/polyfills.166cfcf4f61367cb.js": "e4ce213aabadcf4366cef8fb5a17b224d3503257",
+    "https://lianloveu.com/runtime.c1ac8e6dabcccd35.js": "da92dbcf548c86ce0d63b09ab00ac4019084ed0e",
+    "https://lianloveu.com/styles.00bd7f7f4fec2999.css": "c54851a7e951a8c76f141232e3f70361d7d74db6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
