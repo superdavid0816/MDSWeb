@@ -20,9 +20,29 @@
   <link rel="apple-touch-icon" sizes="192x192" href="/src/assets/icons/icon-192x192.png">
   <link rel="apple-touch-icon" sizes="384x384" href="/src/assets/icons/icon-384x384.png">
   <link rel="apple-touch-icon" sizes="512x512" href="/src/assets/icons/icon-512x512.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/philfung/add-to-homescreen@1.8/dist/add-to-homescreen.min.css">
+  <script src="https://cdn.jsdelivr.net/gh/philfung/add-to-homescreen@1.8/dist/add-to-homescreen.min.js"></script>
 
 <link rel="stylesheet" href="styles.00bd7f7f4fec2999.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.00bd7f7f4fec2999.css"></noscript></head>
 <body>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () { // document.getElementById('addToHomeScreen').addEventListener('click', function () and add <button id="addToHomeScreen">Add to Home Screen</button> somewhere on your page to get a button instead.
+    
+     window.AddToHomeScreenInstance = new window.AddToHomeScreen({
+      appName: 'Aardvark',                                   // Name of the app.
+                                                             // Required.
+      appIconUrl: 'apple-touch-icon.png',                    // App icon link (square, at least 40 x 40 pixels).  
+                                                             // Required.
+      assetUrl: 'https://cdn.jsdelivr.net/gh/philfung/add-to-homescreen@1.8/dist/assets/img/',  // Link to directory of library image assets.
+    
+      maxModalDisplayCount: -1                               // If set, the modal will only show this many times.
+                                                             // Optional. Default: -1 (no limit).  (Debugging: Use this.clearModalDisplayCount() to reset the count)
+    });
+          
+     ret = window.AddToHomeScreenInstance.show('en');        // show "add-to-homescreen" instructions to user, or do nothing if already added to homescreen
+                                                             // The only argument is the language to show the messages in (currently only 'de', 'en', 'pt' and 'fr' are available).
+    });
+    </script>
   <app-root></app-root>
   <noscript>Please enable JavaScript to continue using this application.</noscript>
 <script src="runtime.c1ac8e6dabcccd35.js" type="module"></script><script src="polyfills.166cfcf4f61367cb.js" type="module"></script><script src="main.9f25a006b289d20c.js" type="module"></script>
