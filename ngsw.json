@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723447827211,
+  "timestamp": 1723450749053,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -29,9 +29,12 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://lianloveu.com/assets/icons/icon-120x120.png",
         "https://lianloveu.com/assets/icons/icon-128x128.png",
         "https://lianloveu.com/assets/icons/icon-144x144.png",
         "https://lianloveu.com/assets/icons/icon-152x152.png",
+        "https://lianloveu.com/assets/icons/icon-167x167.png",
+        "https://lianloveu.com/assets/icons/icon-180x180.png",
         "https://lianloveu.com/assets/icons/icon-192x192.png",
         "https://lianloveu.com/assets/icons/icon-384x384.png",
         "https://lianloveu.com/assets/icons/icon-512x512.png",
@@ -49,14 +52,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://lianloveu.com/assets/icons/icon-128x128.png": "b27d45fd8bb01e03d802ef598853bd0136dfc396",
-    "https://lianloveu.com/assets/icons/icon-144x144.png": "e30ef605cf812a4d2e72a712fb6e890b01788dc5",
-    "https://lianloveu.com/assets/icons/icon-152x152.png": "9c2e60b31b7e859b7b7c56c873026fc3da91c850",
-    "https://lianloveu.com/assets/icons/icon-192x192.png": "27b02212c844876603faf6890412dd2d05035c26",
-    "https://lianloveu.com/assets/icons/icon-384x384.png": "f15517eb6a9c12a6f886553b29af11015e6906bb",
-    "https://lianloveu.com/assets/icons/icon-512x512.png": "a7cc9f77b4e4059a77c55211d340f9c61d73435c",
-    "https://lianloveu.com/assets/icons/icon-72x72.png": "072029b23b68854a11586acbd50f0530efe3ccf6",
-    "https://lianloveu.com/assets/icons/icon-96x96.png": "d866a99ba9c3487877e82dfa24178593979d8bfc",
+    "https://lianloveu.com/assets/icons/icon-120x120.png": "5598aad59bc51095568b1223087db5fd0e5bba9e",
+    "https://lianloveu.com/assets/icons/icon-128x128.png": "ca81113b5bc485bd962e30ab2175592ab8dfcb63",
+    "https://lianloveu.com/assets/icons/icon-144x144.png": "d55ad469a398831cf1d27b757b2253c472d2d2a0",
+    "https://lianloveu.com/assets/icons/icon-152x152.png": "db991df0b06f284bc81654d7e23f7636281125eb",
+    "https://lianloveu.com/assets/icons/icon-167x167.png": "4df0760f06c440a209b9735a704afd5bff4177c7",
+    "https://lianloveu.com/assets/icons/icon-180x180.png": "ff801f2879bb55a963181d8210556724cb98bcd4",
+    "https://lianloveu.com/assets/icons/icon-192x192.png": "a636ce6b90df80c6da5006d2dcc4f7b59e6d7c5f",
+    "https://lianloveu.com/assets/icons/icon-384x384.png": "9fa7a29de9cd1dcb8026bd098e56dba8246318dd",
+    "https://lianloveu.com/assets/icons/icon-512x512.png": "c7730d55d689b7bf20a6e7ab9a4726594589b94f",
+    "https://lianloveu.com/assets/icons/icon-72x72.png": "c7f525ee9dbe6e566316278162dfac126d276706",
+    "https://lianloveu.com/assets/icons/icon-96x96.png": "e18d474d0c2107d078a0fa8b3c00d720de28e493",
     "https://lianloveu.com/assets/images/AddToCart.png": "4f887a6b4dd72ad030e09fee5eae1e924ff5a462",
     "https://lianloveu.com/assets/images/Not_OK.png": "a7f5aa7959ebb5bb811ee5a652c5416ec0a95538",
     "https://lianloveu.com/assets/images/OK.png": "60069fb79ddd6e56f2e2d8dfa0ddf5294cb760e8",
@@ -64,9 +70,9 @@
     "https://lianloveu.com/assets/images/logo.png": "27c44ff8da149b5969ebbc8f363d365e33fee323",
     "https://lianloveu.com/assets/images/qrcodeattendance.png": "4f2aa1e8c6ddaec1f570f457d1f0cac99c71355a",
     "https://lianloveu.com/favicon.ico": "cfc8f8e24abab06dc2fbca0e291f64ed8dd30ed7",
-    "https://lianloveu.com/index.html": "4042129749610e5df023c4b99f9ba6f72859dcec",
+    "https://lianloveu.com/index.html": "9a65fd6d0a730c47bfeed8dee059c767d3cd528b",
     "https://lianloveu.com/main.9f25a006b289d20c.js": "89c8bddb1bcb5ce1a8f24b8d6b14c7dc302d5920",
-    "https://lianloveu.com/manifest.webmanifest": "580475410d34158e4234132c81e9c7fe41515261",
+    "https://lianloveu.com/manifest.webmanifest": "836def5df5ae306a065b635874e15697e1ecc90d",
     "https://lianloveu.com/polyfills.166cfcf4f61367cb.js": "e4ce213aabadcf4366cef8fb5a17b224d3503257",
     "https://lianloveu.com/runtime.c1ac8e6dabcccd35.js": "da92dbcf548c86ce0d63b09ab00ac4019084ed0e",
     "https://lianloveu.com/styles.00bd7f7f4fec2999.css": "c54851a7e951a8c76f141232e3f70361d7d74db6"
