@@ -8,7 +8,7 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "apple-touch-icon.png",
+      "src": "./assets/icons/apple-touch-icon.png",
       "sizes": "any",
       "type": "image/png",
       "purpose": "maskable any"
