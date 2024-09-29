@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1727622455964,
+  "timestamp": 1727622954191,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -62,10 +62,10 @@
   ],
   "dataGroups": [
     {
-      "name": "ts-files",
+      "name": "media-cache",
       "patterns": [
-        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.ts",
-        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.m3u8"
+        "\\/api\\/MediaStreaming\\/GetVideoTS[^/]*",
+        "\\/api\\/MediaStreaming\\/GetVideoM3U8[^/]*"
       ],
       "strategy": "performance",
       "maxSize": 1000,
