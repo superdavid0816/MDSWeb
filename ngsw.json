@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1727619015405,
+  "timestamp": 1727622455964,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -45,7 +45,8 @@
         "https://lianloveu.com/styles.00bd7f7f4fec2999.css"
       ],
       "patterns": [
-        "\\/media\\/(?:.+\\/)?[^/]*\\.ts"
+        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.ts",
+        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.m3u8"
       ]
     },
     {
@@ -63,7 +64,8 @@
     {
       "name": "ts-files",
       "patterns": [
-        "\\/media\\/(?:.+\\/)?[^/]*\\.ts"
+        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.ts",
+        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.m3u8"
       ],
       "strategy": "performance",
       "maxSize": 1000,
