@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1733408478317,
+  "timestamp": 1734191890270,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -38,7 +38,7 @@
         "https://lianloveu.com/assets/images/user.png",
         "https://lianloveu.com/favicon.ico",
         "https://lianloveu.com/index.html",
-        "https://lianloveu.com/main.66388dbf82887a52.js",
+        "https://lianloveu.com/main.37d1e8f3dd322bab.js",
         "https://lianloveu.com/manifest.webmanifest",
         "https://lianloveu.com/polyfills.3a612b35b90d67cb.js",
         "https://lianloveu.com/runtime.535e540ba4fc8e44.js",
@@ -103,8 +103,8 @@
     "https://lianloveu.com/assets/images/qrcodeattendance.png": "4f2aa1e8c6ddaec1f570f457d1f0cac99c71355a",
     "https://lianloveu.com/assets/images/user.png": "fefd57aa4b49e4482483cb59f75bc1785881ec33",
     "https://lianloveu.com/favicon.ico": "cfc8f8e24abab06dc2fbca0e291f64ed8dd30ed7",
-    "https://lianloveu.com/index.html": "3f467a4a677207943c364b822505fba7cc62662e",
-    "https://lianloveu.com/main.66388dbf82887a52.js": "6789412ce3fa968ff3a2d234db7968b96c89cb3c",
+    "https://lianloveu.com/index.html": "2cf92c61a0a0b1c87e8b30b79a67c760cf30eecf",
+    "https://lianloveu.com/main.37d1e8f3dd322bab.js": "906b7b702f8a1efe240245c6d286e899c3694b82",
     "https://lianloveu.com/manifest.webmanifest": "95ec8ca556bfcfe5fd6def8d542c8a8aba423543",
     "https://lianloveu.com/polyfills.3a612b35b90d67cb.js": "7657b150cfc779bc33999550279a669f0452ee26",
     "https://lianloveu.com/runtime.535e540ba4fc8e44.js": "e4fc7191679003efe45b64c72c5332c2d9366c1e",
