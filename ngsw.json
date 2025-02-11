@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1739194132159,
+  "timestamp": 1739252929388,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -39,11 +39,11 @@
         "https://lianloveu.com/assets/images/user.png",
         "https://lianloveu.com/favicon.ico",
         "https://lianloveu.com/index.html",
-        "https://lianloveu.com/main.8c149e047d0012e7.js",
+        "https://lianloveu.com/main.b09bc0d1dc8ec930.js",
         "https://lianloveu.com/manifest.webmanifest",
         "https://lianloveu.com/polyfills.166cfcf4f61367cb.js",
         "https://lianloveu.com/runtime.c1ac8e6dabcccd35.js",
-        "https://lianloveu.com/styles.08f015e870f2c282.css"
+        "https://lianloveu.com/styles.66b490591e32d6c3.css"
       ],
       "patterns": [
         "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.ts",
@@ -105,12 +105,12 @@
     "https://lianloveu.com/assets/images/qrcodeattendance.png": "4f2aa1e8c6ddaec1f570f457d1f0cac99c71355a",
     "https://lianloveu.com/assets/images/user.png": "fefd57aa4b49e4482483cb59f75bc1785881ec33",
     "https://lianloveu.com/favicon.ico": "cfc8f8e24abab06dc2fbca0e291f64ed8dd30ed7",
-    "https://lianloveu.com/index.html": "1e3bb3572f6317c59a43c3eda5b86cd44414df19",
-    "https://lianloveu.com/main.8c149e047d0012e7.js": "94cd08ff232226fb60501fb3136c43675335520c",
+    "https://lianloveu.com/index.html": "b0718e5d4c35228491dba19875106fbb6bc56aa9",
+    "https://lianloveu.com/main.b09bc0d1dc8ec930.js": "521d76f6b399c3ba8eff6a4453557224be206dc6",
     "https://lianloveu.com/manifest.webmanifest": "95ec8ca556bfcfe5fd6def8d542c8a8aba423543",
     "https://lianloveu.com/polyfills.166cfcf4f61367cb.js": "e4ce213aabadcf4366cef8fb5a17b224d3503257",
     "https://lianloveu.com/runtime.c1ac8e6dabcccd35.js": "da92dbcf548c86ce0d63b09ab00ac4019084ed0e",
-    "https://lianloveu.com/styles.08f015e870f2c282.css": "46ad0996b00cb08b4f5790bc4216d56b94622730"
+    "https://lianloveu.com/styles.66b490591e32d6c3.css": "f51c8e6c8048552513bc9a29126eb2f649492d43"
   },
   "navigationUrls": [
     {
