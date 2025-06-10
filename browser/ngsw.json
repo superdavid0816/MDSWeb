@@ -1,0 +1,146 @@
+{
+  "configVersion": 1,
+  "timestamp": 1749542701437,
+  "index": "https://lianloveu.com/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lianloveu.com/favicon.ico",
+        "https://lianloveu.com/index.html",
+        "https://lianloveu.com/main-SHSSAMW5.js",
+        "https://lianloveu.com/manifest.webmanifest",
+        "https://lianloveu.com/polyfills-EONH2QZO.js",
+        "https://lianloveu.com/styles-AK2YTDTL.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lianloveu.com/assets/icons/icon-120x120.png",
+        "https://lianloveu.com/assets/icons/icon-128x128.png",
+        "https://lianloveu.com/assets/icons/icon-144x144.png",
+        "https://lianloveu.com/assets/icons/icon-152x152.png",
+        "https://lianloveu.com/assets/icons/icon-167x167.png",
+        "https://lianloveu.com/assets/icons/icon-180x180.png",
+        "https://lianloveu.com/assets/icons/icon-192x192.png",
+        "https://lianloveu.com/assets/icons/icon-384x384.png",
+        "https://lianloveu.com/assets/icons/icon-512x512.png",
+        "https://lianloveu.com/assets/icons/icon-72x72.png",
+        "https://lianloveu.com/assets/icons/icon-96x96.png",
+        "https://lianloveu.com/assets/icons/play.png",
+        "https://lianloveu.com/assets/images/AddToCart.png",
+        "https://lianloveu.com/assets/images/IOSLine0.PNG",
+        "https://lianloveu.com/assets/images/IOSLine2.PNG",
+        "https://lianloveu.com/assets/images/IOSaddToHome1.jpg",
+        "https://lianloveu.com/assets/images/IOSaddToHome2.jpg",
+        "https://lianloveu.com/assets/images/Not_OK.png",
+        "https://lianloveu.com/assets/images/OK.png",
+        "https://lianloveu.com/assets/images/banner.jpg",
+        "https://lianloveu.com/assets/images/cart.png",
+        "https://lianloveu.com/assets/images/home.png",
+        "https://lianloveu.com/assets/images/login.png",
+        "https://lianloveu.com/assets/images/logo.png",
+        "https://lianloveu.com/assets/images/qrcodeattendance.png",
+        "https://lianloveu.com/assets/images/user.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "media-cache",
+      "patterns": [
+        "\\/api\\/MediaStreaming\\/GetVideoTS[^/]*",
+        "\\/api\\/MediaStreaming\\/GetVideoM3U8[^/]*",
+        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.ts",
+        "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.m3u8"
+      ],
+      "strategy": "performance",
+      "maxSize": 1000,
+      "maxAge": 2592000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "external-files",
+      "patterns": [
+        "https:\\/\\/invoice\\.amego\\.tw\\/user\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 10,
+      "maxAge": 86400000,
+      "timeoutMs": 10000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://lianloveu.com/assets/icons/icon-120x120.png": "5598aad59bc51095568b1223087db5fd0e5bba9e",
+    "https://lianloveu.com/assets/icons/icon-128x128.png": "ca81113b5bc485bd962e30ab2175592ab8dfcb63",
+    "https://lianloveu.com/assets/icons/icon-144x144.png": "d55ad469a398831cf1d27b757b2253c472d2d2a0",
+    "https://lianloveu.com/assets/icons/icon-152x152.png": "db991df0b06f284bc81654d7e23f7636281125eb",
+    "https://lianloveu.com/assets/icons/icon-167x167.png": "4df0760f06c440a209b9735a704afd5bff4177c7",
+    "https://lianloveu.com/assets/icons/icon-180x180.png": "ff801f2879bb55a963181d8210556724cb98bcd4",
+    "https://lianloveu.com/assets/icons/icon-192x192.png": "a636ce6b90df80c6da5006d2dcc4f7b59e6d7c5f",
+    "https://lianloveu.com/assets/icons/icon-384x384.png": "9fa7a29de9cd1dcb8026bd098e56dba8246318dd",
+    "https://lianloveu.com/assets/icons/icon-512x512.png": "c7730d55d689b7bf20a6e7ab9a4726594589b94f",
+    "https://lianloveu.com/assets/icons/icon-72x72.png": "c7f525ee9dbe6e566316278162dfac126d276706",
+    "https://lianloveu.com/assets/icons/icon-96x96.png": "e18d474d0c2107d078a0fa8b3c00d720de28e493",
+    "https://lianloveu.com/assets/icons/play.png": "623a109e6171171e51ec2439b5c1bfb59ebf1bdb",
+    "https://lianloveu.com/assets/images/AddToCart.png": "4f887a6b4dd72ad030e09fee5eae1e924ff5a462",
+    "https://lianloveu.com/assets/images/IOSLine0.PNG": "fcf025eb9d7915a513f9563743fc31de5ad9195f",
+    "https://lianloveu.com/assets/images/IOSLine2.PNG": "0fb70d7dd6df4ef139b8ec2c76d089a0a80f5e2b",
+    "https://lianloveu.com/assets/images/IOSaddToHome1.jpg": "c04be96760fc6f759e3f70f35ed9740d2d392670",
+    "https://lianloveu.com/assets/images/IOSaddToHome2.jpg": "363bb726f11215b5622686fc17ebec9304bceb66",
+    "https://lianloveu.com/assets/images/Not_OK.png": "a7f5aa7959ebb5bb811ee5a652c5416ec0a95538",
+    "https://lianloveu.com/assets/images/OK.png": "60069fb79ddd6e56f2e2d8dfa0ddf5294cb760e8",
+    "https://lianloveu.com/assets/images/banner.jpg": "a8e767b84f45be1170eb82eda9415c406ab53d0e",
+    "https://lianloveu.com/assets/images/cart.png": "22449a01c550278be43b514fb2e3f4d6cf4d8fca",
+    "https://lianloveu.com/assets/images/home.png": "ae40cdaf5512e2478a1551dfffc78be81500d84a",
+    "https://lianloveu.com/assets/images/login.png": "60f440095aadb8a3b44010f46879324c58e6cd67",
+    "https://lianloveu.com/assets/images/logo.png": "27c44ff8da149b5969ebbc8f363d365e33fee323",
+    "https://lianloveu.com/assets/images/qrcodeattendance.png": "4f2aa1e8c6ddaec1f570f457d1f0cac99c71355a",
+    "https://lianloveu.com/assets/images/user.png": "fefd57aa4b49e4482483cb59f75bc1785881ec33",
+    "https://lianloveu.com/favicon.ico": "cfc8f8e24abab06dc2fbca0e291f64ed8dd30ed7",
+    "https://lianloveu.com/index.html": "bfd3576d9d8ba177903303a39aba58e7c6365be3",
+    "https://lianloveu.com/main-SHSSAMW5.js": "bc1111538b8c23a3950cb0079e426b1ed5daf125",
+    "https://lianloveu.com/manifest.webmanifest": "95ec8ca556bfcfe5fd6def8d542c8a8aba423543",
+    "https://lianloveu.com/polyfills-EONH2QZO.js": "e61db933651ae257d0c246b446cd1f470be08f78",
+    "https://lianloveu.com/styles-AK2YTDTL.css": "749807112112fd71d035267cddf4a726be9db6bc"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
