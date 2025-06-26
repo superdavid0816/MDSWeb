@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750927022944,
+  "timestamp": 1750927789172,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -71,8 +71,8 @@
         "https:\\/\\/mdswebapi-608096754844\\.us-east1\\.run\\.app\\/api\\/GoogleDriveService\\/GetFiles[^/]*[^/]*"
       ],
       "strategy": "freshness",
-      "maxSize": 100,
-      "maxAge": 2592000000,
+      "maxSize": 1000,
+      "maxAge": 86400000000,
       "timeoutMs": 5000,
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -85,8 +85,8 @@
         "\\/assets\\/(?:.+\\/)?[^/]*\\.(jpg|jpeg|png|svg|webp|gif|avif)"
       ],
       "strategy": "staleWhileRevalidate",
-      "maxSize": 100,
-      "maxAge": 2592000000,
+      "maxSize": 1000,
+      "maxAge": 86400000000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -101,8 +101,8 @@
         "\\/api\\/MediaStreaming\\/(?:.+\\/)?[^/]*\\.m3u8"
       ],
       "strategy": "performance",
-      "maxSize": 1000,
-      "maxAge": 2592000000,
+      "maxSize": 10000,
+      "maxAge": 86400000000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
