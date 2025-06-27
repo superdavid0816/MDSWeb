@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1750984159393,
+  "timestamp": 1750984663045,
   "index": "https://lianloveu.com/index.html",
   "assetGroups": [
     {
@@ -49,7 +49,7 @@
         "https://lianloveu.com/assets/images/AddToCart.png",
         "https://lianloveu.com/assets/images/IOSLine0.PNG",
         "https://lianloveu.com/assets/images/IOSLine2.PNG",
-        "https://lianloveu.com/assets/images/IOSaddToHome1.jpg",
+        "https://lianloveu.com/assets/images/IOSaddToHome1.jpeg",
         "https://lianloveu.com/assets/images/IOSaddToHome2.jpg",
         "https://lianloveu.com/assets/images/Not_OK.png",
         "https://lianloveu.com/assets/images/OK.png",
@@ -139,7 +139,7 @@
     "https://lianloveu.com/assets/images/AddToCart.png": "4f887a6b4dd72ad030e09fee5eae1e924ff5a462",
     "https://lianloveu.com/assets/images/IOSLine0.PNG": "fcf025eb9d7915a513f9563743fc31de5ad9195f",
     "https://lianloveu.com/assets/images/IOSLine2.PNG": "0fb70d7dd6df4ef139b8ec2c76d089a0a80f5e2b",
-    "https://lianloveu.com/assets/images/IOSaddToHome1.jpg": "c36ec403d60aefd050a917a7022a6b31940ba16a",
+    "https://lianloveu.com/assets/images/IOSaddToHome1.jpeg": "7d87750a1e41426333492d9f9410d26442de8a48",
     "https://lianloveu.com/assets/images/IOSaddToHome2.jpg": "363bb726f11215b5622686fc17ebec9304bceb66",
     "https://lianloveu.com/assets/images/Not_OK.png": "a7f5aa7959ebb5bb811ee5a652c5416ec0a95538",
     "https://lianloveu.com/assets/images/OK.png": "60069fb79ddd6e56f2e2d8dfa0ddf5294cb760e8",
